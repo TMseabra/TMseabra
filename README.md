@@ -6,9 +6,7 @@ I'm a developer who enjoys building useful things with code. I'm currently worki
 
 - [Jarvis PC Assistant](https://github.com/Tgalao/jarvis-pc-assistant): control your PC by voice or text, open apps and sites, and read and reply to WhatsApp, Telegram and Discord messages.
 
-### 📈 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TMseabra&show_icons=true&theme=highcontrast)
 
 ### Language and Tools
 
