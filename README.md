@@ -2,7 +2,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Tom%C3%A1s%20Seabra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Databases&descAlignY=55&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=Building+useful+things+with+code.;TypeScript+%7C+C%23+%7C+JavaScript+%7C+SQL;Student+developer+%F0%9F%87%B5%F0%9F%87%B9+Learning+every+day.;Currently+building+Jarvis+PC+Assistant.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=Building+useful+things+with+code.;TypeScript+%7C+C%23+%7C+JavaScript+%7C+SQL;Student+developer+%F0%9F%87%B5%F0%9F%87%B9+Learning+every+day.;Building+things+that+actually+help+people.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-TMseabra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMseabra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom%C3%A1s-seabra-b24963359/)
 
