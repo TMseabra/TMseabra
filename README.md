@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Building+useful+things+with+code.;Python+%7C+TypeScript+%7C+C%23;Student+developer+%F0%9F%87%B5%F0%9F%87%B9+Learning+every+day.;Currently+building+Jarvis+PC+Assistant.)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-TMseabra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMseabra)
+[![GitHub](https://img.shields.io/badge/GitHub-TMseabra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMseabra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom%C3%A1s-seabra-b24963359/)
 
 </div>
 
@@ -14,7 +14,7 @@
 const tomas = {
   role:      "Técnico Programador de Informática (formando) → Junior Developer",
   location:  "Portugal 🇵🇹",
-  stack:     ["Python", "TypeScript", "JavaScript", "C#", "Git"],
+  stack:     ["Python", "TypeScript", "JavaScript", "C#", "C", "HTML", "SQL", "Lua", "Git"],
   building:  "Jarvis PC Assistant — voice and text assistant for the PC",
   focus:     ["Full-Stack Development", "AI", "Databases"],
   motto:     "Learn by building. Ship, improve, repeat.",
@@ -40,9 +40,12 @@ const tomas = {
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 
 ---
 
@@ -56,7 +59,7 @@ const tomas = {
 
 Open to internship opportunities, project collabs, and learning from other developers.
 
-[![GitHub](https://img.shields.io/badge/Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMseabra)
+[![GitHub](https://img.shields.io/badge/Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMseabra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom%C3%A1s-seabra-b24963359/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TMseabra&color=00ff87&style=for-the-badge&label=Profile+Views)
 
