@@ -12,11 +12,11 @@
 
 ```js
 const tomas = {
-  role:      "Técnico Programador de Informática (formando) → Junior Developer",
+  role:      "Técnico Programador de Informática (formando) ",
   location:  "Portugal 🇵🇹",
   stack:     ["Python", "TypeScript", "JavaScript", "C#", "C", "HTML", "SQL", "Lua", "Git"],
   building:  "Jarvis PC Assistant — voice and text assistant for the PC",
-  focus:     ["Full-Stack Development", "AI", "Databases"],
+  focus:     ["Full-Stack Development", "AI", "Databases","Cybersecurity"],
   motto:     "Learn by building. Ship, improve, repeat.",
 };
 ```
@@ -51,7 +51,7 @@ const tomas = {
 
 ## 🌱 Currently Learning
 
-**Full-Stack Development** · **AI & LLMs** · **Databases**
+**Full-Stack Development** · **AI & LLMs** · **Databases** · **CyberSecurity**  
 
 ---
 
