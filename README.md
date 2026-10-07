@@ -23,14 +23,13 @@ const tomas = {
 
 ---
 
-## 🏆 Projects
+## 📌 Pinned Projects
 
-| Project | Description | Stack | Status |
-| ------- | ----------- | ----- | ------ |
-| 🤖 **[Jarvis PC Assistant](https://github.com/TMseabra/jarvis-pc-assistant)** | Control your PC by voice or text: open apps and sites, and read and reply to WhatsApp, Telegram and Discord messages | Python · LLMs | 🚀 In progress |
-| 💬 **[AI Support Assistant](https://github.com/TMseabra/ai-support-assistant)** | AI-powered support assistant | TypeScript | 🛠️ Building |
-| 💻 **[Local AI Coding Assistant](https://github.com/TMseabra/local-ai-coding-assistant)** | AI coding assistant that runs locally | JavaScript | 🛠️ Building |
-| 🔐 **[Porta Seguro](https://github.com/TMseabra/Porta-seguro)** | Web project built in TypeScript | TypeScript | 🛠️ Building |
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| 🤖 **[Jarvis PC Assistant](https://github.com/TMseabra/jarvis-pc-assistant)** | Personal assistant for the PC: opens apps and sites, and reads/replies to WhatsApp, Telegram and Discord messages by voice or text | Python |
+| 📚 **[claude-skills-pt](https://github.com/TMseabra/claude-skills-pt)** | A collection of Claude skills in European Portuguese: study, report review, error explaining, CV/interview prep and more | Markdown |
+| 🔗 **[link-shortener-cloudflare](https://github.com/TMseabra/link-shortener-cloudflare)** | URL shortener with click analytics, running on Cloudflare Workers with a D1 database | TypeScript |
 
 ---
 
